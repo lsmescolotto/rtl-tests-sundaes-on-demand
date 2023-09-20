@@ -1,0 +1,8 @@
+{
+    "singleQuote": false,
+    "tabWidth": 2,
+    "jsxBracketSameLine": true,
+    "trailingComma": "all",
+    "allowParens": "avoid",
+    "endOfLine": "auto"
+}
